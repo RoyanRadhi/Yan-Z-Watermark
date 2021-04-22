@@ -1,2 +1,2 @@
 # Yan-Z-Watermark
-This is watermark RGB
+This is watermark ERGEBEH
