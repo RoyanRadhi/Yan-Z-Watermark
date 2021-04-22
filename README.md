@@ -1,2 +1,2 @@
 # Yan-Z-Watermark
-This is watermark ERGEBEH
+NO RGB NO PARTYYYYY
