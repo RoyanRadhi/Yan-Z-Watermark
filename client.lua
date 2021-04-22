@@ -23,7 +23,7 @@ Citizen.CreateThread( function()
 		SetTextColour( rainbow.r, rainbow.g, rainbow.b, 255 )
 		SetTextOutline()
 		SetTextEntry( "STRING" )
-		AddTextComponentString( "#IndoSantuy" ) -- UNTUK NAMA SERVER MU
+		AddTextComponentString( "#YourServerNameHere" ) -- UNTUK NAMA SERVER MU
 		DrawText( 0.870, 0.050 ) -- POSISI WATERMARK
 	end
 end )
